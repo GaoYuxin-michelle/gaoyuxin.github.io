@@ -1,0 +1,25 @@
+.one {
+    text-align: center;
+    color:rgb(80, 80, 0);
+    padding: 20px;
+}
+.two {
+    color:goldenrod;
+    }
+.three {
+    text-align: right;
+    color: rgb(153, 153, 153);
+    font-size: medium;
+    padding-right: 15px;
+}
+.four {
+    background-color: rgb(80, 80, 0);
+    color: papayawhip;
+    padding: 7px;
+    padding-left: 15px;
+}
+.text {
+    text-indent: 33px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
